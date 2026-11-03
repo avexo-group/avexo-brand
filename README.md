@@ -4,7 +4,7 @@ Official logo files for Avexo Group, a Moldovan technology holding company.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo/avexo-mountains-dark.svg">
-  <img alt="Avexo Group" src="logo/avexo-mountains2-light.svg" width="240">
+  <img alt="Avexo Group" src="logo/avexo-mountains-light.svg" width="240">
 </picture>
 
 ## Files
